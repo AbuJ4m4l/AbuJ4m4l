@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a passionate developer with a deep love for various cu
 - 💞️ Open for exciting collaboration opportunities.
 - 📫 How to reach me:
   - Email: [mrxeyad@hotmail.com](mailto:mrxeyad@hotmail.com)
-  - Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/MrXeyad?style=social)
+  - Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/MrXeyad?style=social)(https://twitter.com/intent/follow?screen_name=MrXeyad)
   - Discord: _n.8
   - LinkedIn: *coming soon*
 
